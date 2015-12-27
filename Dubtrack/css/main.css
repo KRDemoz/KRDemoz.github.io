@@ -1,4 +1,5 @@
-/* Heavily reliant on netux main.css */
+/* main css for NB3 Dubtrack Room */
+/* reliant on netux css */
 
 /* Imports */
 @import url("https://netox005.github.io/Dubtrack/css/voteicons.css"); /* NB3 Vote Icons */
@@ -8,4 +9,5 @@
 @import url("https://netox005.github.io/Dubtrack/css/phonefix.css"); /* Phone Fixes */
 @import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* Animations */
 @import url("https://hebgbs.github.io/rainbowNB3.css"); /* Rainbowstuff (Progress bar and volume bar) */
-@import url("https://netox005.github.io/Dubtrack/css/main.css");
+@import url("https://netox005.github.io/Dubtrack/css/main.css"); /* Multiple fixes */
+@import url("https://krdemoz.github.io/Dubtrack/css/theme.css"); /* Replacement PlugDJ theme */
