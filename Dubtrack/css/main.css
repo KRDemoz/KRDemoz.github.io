@@ -1,5 +1,11 @@
-/* Main file (NB3 room) */
 /* Heavily reliant on netux main.css */
 
 /* Imports */
-@import url("https://netux005.github.io/Dubtrack/css/main.css"); /* Base css*/
+@import url("https://netox005.github.io/Dubtrack/css/voteicons.css"); /* NB3 Vote Icons */
+@import url("https://netox005.github.io/Dubtrack/css/chatright.css"); /* Chat completely to the right */
+@import url("https://netox005.github.io/Dubtrack/css/videosmall.css"); /* Small video */
+@import url("https://netox005.github.io/Dubtrack/css/skynet.css"); /* @netuxbot custom chat */
+@import url("https://netox005.github.io/Dubtrack/css/phonefix.css"); /* Phone Fixes */
+@import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* Animations */
+@import url("https://hebgbs.github.io/rainbowNB3.css"); /* Rainbowstuff (Progress bar and volume bar) */
+@import url("https://netox005.github.io/Dubtrack/css/main.css");
