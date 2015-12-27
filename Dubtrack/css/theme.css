@@ -76,10 +76,10 @@ a, a:active, a:focus, a:hover,
 	color: #E60000;
 }
 #player-controller .right ul li .dubup.voted {
-	background: #90AD2F;
+	background: #E60000;
 }
 #player-controller .right ul li .dubup .icon-arrow-up, #player-controller .right ul li .dubup .dub-counter {
-	color: #90AD2F;
+	color: #E60000;
 }
 #player-controller .right ul li .dubdown.voted {
 	background: #C42E3B;
