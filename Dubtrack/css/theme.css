@@ -405,3 +405,12 @@ span.usernameContainer, .followers-counter,
 #user_popover .actions a input {
 	background: rgba(61, 60, 67, 0.69);
 }
+
+/* sys message color change */
+#chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
+#chat .chat-main li[class*='system']{
+    color: #b31919 !important;
+    text-align: center;
+    border-top: #b31919 1px solid !important;
+    border-bottom: #b31919 1px solid !important;
+}
