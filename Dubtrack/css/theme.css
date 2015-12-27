@@ -173,6 +173,7 @@ span.name,
 }
 #chat .chat-container .chat-messages .chat-main li.chat-system-loading, #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, #chat .chat-container .chat-messages .chat-main li.system, #chat .chat-container .chat-messages .chat-main li.system-error {
 	font-size: 14px;
+	
 /*
 }
 #chat .chat-main .isOwner .username,
@@ -209,6 +210,7 @@ span.name,
 #chat .chat-main .isVip .username:visited{
     color: #b31919 !important;
 }
+*/
 
 /** Admins **/
 #chat .chat-container ul.chat-main li.user-52c821781e2b1fd945000001 .activity-row .text p a.username,
