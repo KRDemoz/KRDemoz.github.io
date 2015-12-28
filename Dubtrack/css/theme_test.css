@@ -1,10 +1,15 @@
 /*
     Custom CSS for Dubtrack.fm
     Editted Plug Theme and UI improvements
-    Originally made by @kris | Redone by @sinful | Color editted by KRDemoZ
-    https://dubtrack.fm/kris
-    https://dubtrack.fm/sinful
+    Originally made by @kris | Redone by @sinful | KRDemoZ Revision
+
 */
+
+
+/* Background Override WIP */
+
+#body .backstretch { background-image: url("https://i.imgur.com/XDhybfv.jpg") !important;
+}
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
@@ -413,9 +418,4 @@ span.usernameContainer, .followers-counter,
     text-align: center;
     border-top: #b31919 1px solid !important;
     border-bottom: #b31919 1px solid !important;
-}
-
-/* Background Override WIP */
-
-.backstretch { background-image: url("http://i.imgur.com/XDhybfv.jpg") !important;
 }
