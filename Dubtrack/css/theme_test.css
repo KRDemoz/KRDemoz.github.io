@@ -1,7 +1,7 @@
 /*
     Custom CSS for Dubtrack.fm
-    Plug Theme and UI improvements
-    Originally made by @kris | Redone by @sinful
+    Editted Plug Theme and UI improvements
+    Originally made by @kris | Redone by @sinful | Color editted by KRDemoZ
     https://dubtrack.fm/kris
     https://dubtrack.fm/sinful
 */
@@ -76,10 +76,10 @@ a, a:active, a:focus, a:hover,
 	color: #b31919;
 }
 #player-controller .right ul li .dubup.voted {
-	background: #90AD2F;
+	background: #b31919;
 }
 #player-controller .right ul li .dubup .icon-arrow-up, #player-controller .right ul li .dubup .dub-counter {
-	color: #90AD2F;
+	color: #b31919;
 }
 #player-controller .right ul li .dubdown.voted {
 	background: #C42E3B;
@@ -129,7 +129,6 @@ span.name,
 	font-weight: 600;
 }
 #main_player .player_header span {
-	border-radius: 0.4rem;
 	background: rgba(8,8,8,0.78);
 	font-weight: 500;
 	color: #FFF;
@@ -234,6 +233,7 @@ span.name,
 	color: #ff3657 !important;
     text-shadow: 0px 0px 1px rgba(0,0,0,.5);
 }
+*/
 
 /* User List */
 
@@ -262,7 +262,7 @@ span.name,
 /** Current DJ **/
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ p.username:after {
-	color: #0FF;
+	color: #ff6600;
 }
 
 /** Users **/
@@ -404,4 +404,18 @@ span.usernameContainer, .followers-counter,
 }
 #user_popover .actions a input {
 	background: rgba(61, 60, 67, 0.69);
+}
+
+/* sys message color change */
+#chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
+#chat .chat-main li[class*='system']{
+    color: #b31919 !important;
+    text-align: center;
+    border-top: #b31919 1px solid !important;
+    border-bottom: #b31919 1px solid !important;
+}
+
+/* Background Override WIP */
+
+.backstretch { background-image: http://i.imgur.com/XDhybfv.jpg !important;
 }
