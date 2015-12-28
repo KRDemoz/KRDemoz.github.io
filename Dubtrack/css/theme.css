@@ -6,10 +6,12 @@
 */
 
 
-/* Background Override */
+/* Background Override 
 
 .medium { background-image: url("https://i.imgur.com/HLgVj9C.png") !important;
 }
+
+*/
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
