@@ -1,9 +1,15 @@
 /*
     Custom CSS for Dubtrack.fm
     Editted Plug Theme and UI improvements
-    Originally made by @kris | Redone by @sinful | KRDemoZ revision
+    Originally made by @kris | Redone by @sinful | KRDemoZ Revision
 
 */
+
+
+/* Background Override */
+
+.medium { background-image: url("https://i.imgur.com/HLgVj9C.png") !important;
+}
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
