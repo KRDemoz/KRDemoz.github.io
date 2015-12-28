@@ -417,5 +417,5 @@ span.usernameContainer, .followers-counter,
 
 /* Background Override WIP */
 
-#body .backstretch { background-image: url("http://i.imgur.com/XDhybfv.jpg") !important;
+.backstretch { background-image: url("http://i.imgur.com/XDhybfv.jpg") !important;
 }
